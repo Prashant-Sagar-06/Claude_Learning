@@ -1,0 +1,14 @@
+[     974ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[    3490ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[    3492ms] [LOG] [Fast Refresh] done in 101ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[   37460ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[   38350ms] [LOG] [Fast Refresh] done in 999ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[   41326ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   42048ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   45957ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   45986ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   64983ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://via.placeholder.com/300x300?text=Product+Image:0
+[  198470ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  198984ms] [LOG] [Fast Refresh] done in 626ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  249066ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  249152ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
